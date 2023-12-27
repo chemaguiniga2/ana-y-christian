@@ -1,0 +1,26 @@
+.Main-Container{
+    display: flex;
+    text-align: center;
+    margin: 90px;
+}
+
+.Main-Container-Mobile{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    margin: 50px;
+}
+
+.Description{
+    align-self: center;
+}
+
+.Image-Accomodation{
+    width: 437px;
+    margin-left: 150px;
+}
+
+.Image-Accomodation-Mobile{
+    height: 350px;
+    margin-top: 35px;
+}

@@ -1,0 +1,22 @@
+.Container-Gifts{
+    display: flex;
+    justify-content: space-around;
+    margin: 60px;
+    flex-direction: column;
+    text-align: center;
+}
+
+.Container-Gifts-Mobile{
+    display: flex;
+    justify-content: space-around;
+    margin: 60px;
+    flex-direction: column;
+    text-align: center;
+}
+
+.Liverpool{
+    background-color: #C8B29C;
+    width: fit-content;
+    border-radius: 20px;
+    align-self: center;
+}

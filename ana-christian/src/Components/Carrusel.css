@@ -1,0 +1,33 @@
+.Main-Container-Carrusel{
+    display: flex;
+    text-align: center;
+}
+
+.Main-Container-Carrusel-Mobile{
+    display: flex;
+    flex-direction: column;
+}
+
+.Img-Col {
+    width: 33.33%;
+}
+
+.Img-Col-Mobile {
+    width: 100%;
+}
+
+/* .Description{
+    align-self: center;
+} */
+
+.Image-Carrusel{
+    width: 437px;
+}
+
+.Image-Carrusel-Mobile{
+    width: 100%;
+}
+
+/* .Accomodation-title{
+    font-family: "", Courier;
+} */

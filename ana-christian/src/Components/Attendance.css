@@ -1,0 +1,29 @@
+.Container-Attendance{
+    display: flex;
+    justify-content: space-around;
+    margin: 60px;
+}
+
+.Container-Attendance-Mobile{
+    display: flex;
+    justify-content: space-around;
+    margin: 60px;
+    flex-direction: column;
+}
+
+.Container-Label-Mobile{
+    background-color: #C8B29C;
+    border-radius: 30px;
+    margin: 40px;
+}
+
+.Container-Label{
+    background-color: #C8B29C;
+    border-radius: 30px;
+}
+
+.Attendance-title{
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: center;
+}

@@ -1,0 +1,13 @@
+.Background {
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.Background-Mobile {
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
